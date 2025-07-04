@@ -1,0 +1,10 @@
+@media (max-width: 23.438rem) {
+  main {
+    max-width: 327px;
+    max-height: 501px;
+  }
+  .course-img {
+    height: 200px;
+    width: 279px;
+  }
+}
